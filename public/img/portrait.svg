@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="1000" viewBox="0 0 1000 1000"><defs><radialGradient id="bg" cx=".5" cy=".45" r=".75"><stop offset="0" stop-color="#1f8f88"/><stop offset=".55" stop-color="#0b4a4c"/><stop offset="1" stop-color="#021517"/></radialGradient>
+   <radialGradient id="skin" cx=".45" cy=".45" r=".7"><stop offset="0" stop-color="#6b4436"/><stop offset=".7" stop-color="#3a2219"/><stop offset="1" stop-color="#1a0f0b"/></radialGradient>
+   <linearGradient id="beam" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#ffd9a8" stop-opacity="0"/><stop offset=".5" stop-color="#ffd9a8" stop-opacity=".55"/><stop offset="1" stop-color="#ffd9a8" stop-opacity="0"/></linearGradient></defs><rect width="1000" height="1000" fill="url(#bg)"/>
+  <path d="M170 1000 C 190 820 330 760 500 760 C 670 760 810 820 830 1000 Z" fill="#081012"/>
+  <path d="M420 640 L 420 790 C 450 830 550 830 580 790 L 580 640 Z" fill="#23130e"/>
+  <ellipse cx="500" cy="480" rx="190" ry="235" fill="url(#skin)"/>
+  <path d="M300 420 C 300 230 420 170 510 175 C 640 180 720 260 705 420 C 690 350 640 310 600 300 C 560 330 430 330 380 300 C 340 320 310 360 300 420 Z" fill="#0b0b0b"/>
+  <path d="M0 610 L 1000 330 L 1000 470 L 0 760 Z" fill="url(#beam)" style="mix-blend-mode:screen"/>
+  <ellipse cx="430" cy="495" rx="26" ry="12" fill="#1a0f0b"/><ellipse cx="575" cy="495" rx="26" ry="12" fill="#1a0f0b"/>
+  <path d="M470 640 C 490 650 520 650 540 640" stroke="#3a1c14" stroke-width="10" fill="none" stroke-linecap="round"/></svg>
